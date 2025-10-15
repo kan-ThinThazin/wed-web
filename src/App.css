@@ -1,0 +1,101 @@
+
+/* Photo Player Styles */
+/* .photo-player {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.photo-container {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  border: 3px solid #fff;
+  background: #fff;
+}
+
+.rotating-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.photo-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mute-btn {
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.mute-btn:hover {
+  background: white;
+  transform: scale(1.1);
+}
+
+.youtube-btn {
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.youtube-btn:hover {
+  background: white;
+  transform: scale(1.1);
+} */
+
+/* Mobile responsive */
+/* @media (max-width: 640px) {
+  .photo-player {
+    bottom: 10px;
+    right: 10px;
+  }
+  
+  .photo-container {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .mute-btn,
+  .youtube-btn {
+    width: 35px;
+    height: 35px;
+  }
+  
+  .mute-btn svg,
+  .youtube-btn svg {
+    width: 18px;
+    height: 18px;
+  }
+}  */ 
