@@ -630,12 +630,12 @@ const WEDDING_DATA = {
   location: "Shwe Yadi Poinlon Hall",
   locationDetails: "N0 (27/3) , Ba Yint Naung Road (Kyaung Lan) , near ShwePinlon(City Mall) , North Dagon , Yangon.",
   groom: {
-    name: "မောင်တင်ထွန်းအောင် \n Htun ",
+    name: "မောင်တင်ထွန်းအောင်",
     photoUrl: groomPhoto,
     description: "ဦးခင်အောင်+ဒေါ်ခင်ခင်ဝင်းတို့၏ \n\n သား",
   },
   bride: {
-    name: "မနှင်းဧကရီ (ခ) မခင်လပြည့် \n \n Akari",
+    name: "မနှင်းဧကရီ (ခ) မခင်လပြည့်",
     photoUrl: bridePhoto,
     description: "(ဦးအောင်ကြီးမြင့်)+ဒေါ်ဝင်းဝင်းမော် တို့၏ \n\n သမီး",
   },
@@ -924,12 +924,13 @@ const OursSection = () => {
             </div>
           </div>
           <div className="lg:w-1/2 p-4 text-center lg:text-left">
-            <h5 className="text-4xl font-script text-[#8B7355] mb-4 heading-elegant">
-              {WEDDING_DATA.groom.name}
-            </h5>
             <p className="text-[#4A4A4A] leading-relaxed text-lg">
               {WEDDING_DATA.groom.description}
             </p>
+            <h5 className="text-xl font-script text-[#8B7355] mb-4 heading-elegant">
+              {WEDDING_DATA.groom.name}
+            </h5>
+            
           </div>
         </div>
 
@@ -948,12 +949,13 @@ const OursSection = () => {
             </div>
           </div>
           <div className="lg:w-1/2 p-4 text-center lg:text-right">
-            <h5 className="text-4xl font-script text-[#6B8E9C] mb-4 heading-elegant">
-              {WEDDING_DATA.bride.name}
-            </h5>
             <p className="text-[#4A4A4A] leading-relaxed text-lg">
               {WEDDING_DATA.bride.description}
             </p>
+            <h5 className="text-xl font-script text-[#6B8E9C] mb-4 heading-elegant">
+              {WEDDING_DATA.bride.name}
+            </h5>
+            
           </div>
         </div>
       </div>
