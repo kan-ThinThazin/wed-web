@@ -625,7 +625,7 @@ if (typeof document !== 'undefined') {
 // --- Mock Data ---
 const WEDDING_DATA = {
   names: "Htun & Akari",
-  date: "November 1st, Saturday",
+  date: "November 1st Saturday",
   time: "09:00am - 11:00am",
   location: "Shwe Yadi Poinlon Hall",
   locationDetails: "N0 (27/3) , Ba Yint Naung Road (Kyaung Lan) , near ShwePinlon(City Mall) , North Dagon , Yangon.",
@@ -640,20 +640,20 @@ const WEDDING_DATA = {
     description: "(ဦးအောင်ကြီးမြင့်)+ဒေါ်ဝင်းဝင်းမော် တို့၏ \n\n သမီး",
   },
   gallery: [
-    { id: 1, src: moment1, title: "Our Moments" },
-    { id: 2, src: moment2, title: "Our Day" },
+    { id: 1, src: moment1, title: "Htun & Akari" },
+    { id: 2, src: moment2, title: "Htun & Akari" },
     { id: 3, src: moment3, title: "Htun & Akari" },
-    { id: 4, src: moment4, title: "Being in love" },
-    { id: 5, src: moment5, title: "Mountain Adventure" },
-    { id: 6, src: moment6, title: "Celebration Time" },
-    { id: 7, src: moment7, title: "Celebration Time" },
-    { id: 8, src: moment8, title: "Celebration Time" },
-    { id: 9, src: moment9, title: "Celebration Time" },
-    { id: 10, src: moment10, title: "Celebration Time" },
-    { id: 11, src: moment11, title: "Celebration Time" },
-    { id: 12, src: moment12, title: "Celebration Time" },
+    { id: 4, src: moment4, title: "Htun & Akari" },
+    { id: 5, src: moment5, title: "Htun & Akari" },
+    { id: 6, src: moment6, title: "Htun & Akari" },
+    { id: 7, src: moment7, title: "Htun & Akari" },
+    { id: 8, src: moment8, title: "Htun & Akari" },
+    { id: 9, src: moment9, title: "Htun & Akari" },
+    { id: 10, src: moment10, title: "Htun & Akari" },
+    { id: 11, src: moment11, title: "Htun & Akari" },
+    { id: 12, src: moment12, title: "Htun & Akari" },
   ],
-  letter: "ဒီနေ့လေးဟာ ကျွန်တော် ကျွန်မ တို့နှစ်ဦးအတွက် ဘဝတစ်လျှောက်လုံး မမေ့နိုင်သည့်နေ့တစ်နေ့ ဖြစ်ပါတယ်။ အချစ် ၊ သံယောဇဉ် နဲ့ နှလုံးသားနှစ်ခု ပေါင်းစပ်ပြီး တစ်ခုဖြစ်လာတဲ့ အချိန်လေးလည်းဖြစ်ပါတယ် ။ ထို့အပြင် ကျွန်တော် ကျွန်မ တို့နှစ်ဦး ရှေ့ဆက်လျှောက်ရမဲ့ ဘဝခရီးမှာလည်း နှစ်ယောက်အတူတူ ကောင်းခြင်း ဆိုးခြင်း တွေကိုလက်ခံပြီး အတူတူ စတင်ကျော်ဖြတ် ရမဲ့ ပထမဆုံးနေ့ လေးလည်းဖြစ်ပါတယ်။ \n\n အချစ်ဆိုတာ တစ်ခါတလေ ပန်း တစ်ပွင့်လို မနာကျင်ပဲ မျှော်လင့်ချက်နဲ့ ပွင့်လာတတ်တယ်။ ဒီနေ့မှာတော့ အဲ့ဒီပန်းပွင့်တစ်ပွင့်ကို သင်တို့ နဲ့အတူ ပိုလှလာစေခဲ့ကြပါတယ်။ \n\n ယခုလိုနေ့လေးကို အလှပဆုံးအမှတ်တရတစ်ခုအဖြစ်ပြီးပြည့်စုံအောင် ကျွန်တော် ကျွန်မ တို့ မင်္ဂလာ အခမ်းအနား သို့လာရောက်အားဖြည့် ပေးကျတဲ့ မိသားစု နှင့် မိတ်ဆွေသူငယ်ချင်းများအားလုံးကို အထူးပင်ကျေးဇူးတင်ပါတယ်။ ",
+  letter: "ဒီနေ့လေးဟာ ကျွန်တော်ကျွန်မတို့ နှစ်ဦးအတွက် ဘဝတစ်လျှောက်လုံး မမေ့နိုင်သည့် နေ့တစ်နေ့ဖြစ်ပါတယ်။ အချစ် ၊ သံယောဇဉ် နဲ့ နှလုံးသားနှစ်ခု ပေါင်းစပ်ပြီး တစ်ခုဖြစ်လာတဲ့ အချိန်လေးလည်းဖြစ်ပါတယ် ။ ထို့အပြင် ကျွန်တော်ကျွန်မတို့နှစ်ဦး ရှေ့ဆက်လျှောက်ရမဲ့ ဘဝခရီးမှာလည်း နှစ်ယောက်အတူတူ ကောင်းခြင်းဆိုးခြင်းတွေကိုလက်ခံပြီး အတူတူ စတင်ကျော်ဖြတ်ရမဲ့ ပထမဆုံးနေ့လေးလည်းဖြစ်ပါတယ်။ \n\n အချစ်ဆိုတာ တစ်ခါတလေ ပန်းတစ်ပွင့်လို မနာကျင်ပဲ မျှော်လင့်ချက်နဲ့ ပွင့်လာတတ်တယ်။ ဒီနေ့မှာတော့ အဲ့ဒီပန်းပွင့်တစ်ပွင့်ကို သင်တို့နဲ့အတူ ပိုလှလာစေခဲ့ကြပါတယ်။ \n\n ယခုလိုနေ့လေးကို အလှပဆုံး အမှတ်တရတစ်ခုအဖြစ် ပြီးပြည့်စုံအောင် ကျွန်တော်ကျွန်မတို့ မင်္ဂလာအခမ်းအနားသို့ လာရောက်အားဖြည့်ပေးကျတဲ့ မိသားစုနှင့် မိတ်ဆွေသူငယ်ချင်းများအားလုံးကို အထူးပင်ကျေးဇူးတင်ပါတယ်။ ",
 };
 
 
