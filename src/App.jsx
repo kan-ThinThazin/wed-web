@@ -924,9 +924,9 @@ const OursSection = () => {
             </div>
           </div>
           <div className="lg:w-1/2 p-4 text-center lg:text-left">
-            <h3 className="text-4xl font-script text-[#8B7355] mb-4 heading-elegant">
+            <h5 className="text-4xl font-script text-[#8B7355] mb-4 heading-elegant">
               {WEDDING_DATA.groom.name}
-            </h3>
+            </h5>
             <p className="text-[#4A4A4A] leading-relaxed text-lg">
               {WEDDING_DATA.groom.description}
             </p>
@@ -948,9 +948,9 @@ const OursSection = () => {
             </div>
           </div>
           <div className="lg:w-1/2 p-4 text-center lg:text-right">
-            <h3 className="text-4xl font-script text-[#6B8E9C] mb-4 heading-elegant">
+            <h5 className="text-4xl font-script text-[#6B8E9C] mb-4 heading-elegant">
               {WEDDING_DATA.bride.name}
-            </h3>
+            </h5>
             <p className="text-[#4A4A4A] leading-relaxed text-lg">
               {WEDDING_DATA.bride.description}
             </p>
