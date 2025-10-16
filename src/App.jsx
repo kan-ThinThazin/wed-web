@@ -627,7 +627,7 @@ const WEDDING_DATA = {
   names: "Htun & Akari",
   date: "November 1st Saturday",
   time: "09:00am - 11:00am",
-  location: "Shwe Yadi Poinlon Hall",
+  location: "Shwe Yadi Pinlon Hall",
   locationDetails: "N0 (27/3) , Ba Yint Naung Road (Kyaung Lan) , near ShwePinlon(City Mall) , North Dagon , Yangon.",
   groom: {
     name: "မောင်တင်ထွန်းအောင်",
@@ -927,7 +927,7 @@ const OursSection = () => {
             <p className="text-[#4A4A4A] leading-relaxed text-lg">
               {WEDDING_DATA.groom.description}
             </p>
-            <h5 className="text-xl font-script text-[#8B7355] mb-4 heading-elegant">
+            <h5 className="text-xl font-script text-[#8B7355] mb-4">
               {WEDDING_DATA.groom.name}
             </h5>
             
@@ -952,7 +952,7 @@ const OursSection = () => {
             <p className="text-[#4A4A4A] leading-relaxed text-lg">
               {WEDDING_DATA.bride.description}
             </p>
-            <h5 className="text-xl font-script text-[#6B8E9C] mb-4 heading-elegant">
+            <h5 className="text-xl font-script text-[#6B8E9C] mb-4">
               {WEDDING_DATA.bride.name}
             </h5>
             
