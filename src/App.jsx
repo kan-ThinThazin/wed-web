@@ -927,7 +927,7 @@ const OursSection = () => {
             <p className="text-[#4A4A4A] leading-relaxed text-lg">
               {WEDDING_DATA.groom.description}
             </p>
-            <h5 className="text-xl font-script text-[#8B7355] mb-4">
+            <h5 className="text-xl font-script text-[#6B8E9C] mb-4">
               {WEDDING_DATA.groom.name}
             </h5>
             
